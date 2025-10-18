@@ -1,0 +1,5 @@
+{
+  "name": "Gold Futures Real-Time Data",
+  "description": "A web application to display real-time Gold Futures data (GC/XAUUSD) with a candlestick chart, volume, and Delta Open Interest (ΔOI) for each candle. It features an elegant, dark-mode, and responsive interface to help traders analyze market dynamics.",
+  "requestFramePermissions": []
+}
